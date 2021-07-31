@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/InventoryManager/bin
+/InventoryManager/obj/Debug
+/InventoryManager/InventoryManager.csproj.user
+/InventoryManager.Tests/bin/Debug
+/InventoryManager.Tests/obj/Debug
+/packages
